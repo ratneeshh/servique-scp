@@ -1,0 +1,29 @@
+img {
+    width :400px;
+    height : 400px;
+}
+.imgs {
+    align-items: center;
+    margin-top: 10px;
+    align-self: center;
+
+}
+h2 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size:35px;
+    color:green;
+}
+span {
+    font-size: 25px;
+}
+ul {
+    font-size: 25px;   
+}
+li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text {
+    margin-left: 15px;
+}
